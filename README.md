@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debasishnayak12
 - 👀 I’m interested in programming ...
 - 🌱 I’m currently working as junior developer...
-![Uploading pikachu.png…]()
+
 
 
 <!---

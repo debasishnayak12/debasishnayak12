@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @debasishnayak12
-- 👀 I’m interested in programming ...
-- 🌱 I’m currently working as junior developer...
-
-# Hi there, I'm [Your Name] 👋 
-### Full-Stack Architect | Web Automation Expert | Data Scientist
+# Hi there, I'm Debasish Nayak 👋 
+### Backend Development | Web Automation Expert | Data Scientist
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
@@ -14,8 +10,8 @@
 ## 🚀 About Me
 I am a versatile software engineer with a passion for **automating the web** and **extracting insights from data**. My expertise bridges the gap between robust backend infrastructure and complex data modeling.
 
-* 🛠️ Currently building: [Project Name or "Scalable Scraping Engines"]
-* 🧪 Researching: [AI/ML Topic or "Advanced Data Architectures"]
+* 🛠️ Currently building: "Backend development" & "Scalable Scraping Engines".
+* 🧪 Researching: AI/ML Topic and "Advanced Data Architectures".
 * 💬 Ask me about: **Python, Node.js, Web Scraping, and Data Engineering**
 
 ---

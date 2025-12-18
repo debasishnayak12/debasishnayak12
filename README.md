@@ -2,7 +2,7 @@
 ### Backend Development | Web Automation Expert | Data Scientist
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=debasishnayak12&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=[debasishnayak12]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---

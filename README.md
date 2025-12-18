@@ -1,12 +1,15 @@
-
-![Uploading image.png…]()
-
-
 # Hi there, I'm Debasish Nayak 👋 
 ### Backend Development | Web Automation Expert | Data Scientist
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=debasishnayak12&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Debasish%20Nayak&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/debasishnayak12">
+    <img src="https://komarev.com/ghpvc/?username=debasishnayak12&label=Profile%20views&color=0e75b6&style=flat-square" alt="debasishnayak12" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Data-blueviolet?style=flat-square" />
 </p>
 
 ---

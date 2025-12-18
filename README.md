@@ -12,7 +12,11 @@
   <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Data-blueviolet?style=flat-square" />
 </p> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=🐍%20Debasish%20Nayak%20🐍&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Debasish%20Nayak&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="120" height="120" />
 </p>
 
 <p align="center">

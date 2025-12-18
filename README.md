@@ -32,24 +32,6 @@ I am a versatile software engineer with a passion for **automating the web** and
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[Project Link]** | High-speed web scraper with proxy rotation | Python, Scrapy |
-| **[Project Link]** | Real-time data pipeline & dashboard | Node.js, D3.js |
-| **[Project Link]** | Predictive model for [Industry] | Python, Sklearn |
-
----
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YourLink])
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([YourLink])
